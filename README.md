@@ -9,7 +9,6 @@ LCD, find pin mapping, tools and method
 ![https://youtu.be/0rZ1WW1A2Do](https://youtu.be/0rZ1WW1A2Do)  
 
 
-###[![https://youtu.be/0rZ1WW1A2Do](https://img.youtube.com/vi/0rZ1WW1A2Do/0.jpg)](https://www.youtube.com/watch?v=0rZ1WW1A2Do)
 
 
 ### source code
