@@ -8,6 +8,8 @@ LCD, find pin mapping, tools and method
 ### Result
 ![https://youtu.be/0rZ1WW1A2Do](https://youtu.be/0rZ1WW1A2Do)
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0rZ1WW1A2Do/0.jpg)](https://www.youtube.com/watch?v=0rZ1WW1A2Do)
+
 
 ### source code
 ```
