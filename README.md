@@ -6,9 +6,10 @@ LCD, find pin mapping, tools and method
 ![xiaolaba_LCD_7seg_test_done.jpg](xiaolaba_LCD_7seg_test_done.jpg)
 
 ### Result
-![https://youtu.be/0rZ1WW1A2Do](https://youtu.be/0rZ1WW1A2Do)
+![https://youtu.be/0rZ1WW1A2Do](https://youtu.be/0rZ1WW1A2Do)  
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0rZ1WW1A2Do/0.jpg)](https://www.youtube.com/watch?v=0rZ1WW1A2Do)
+
+[![https://youtu.be/0rZ1WW1A2Do](https://img.youtube.com/vi/0rZ1WW1A2Do/0.jpg)](https://www.youtube.com/watch?v=0rZ1WW1A2Do)
 
 
 ### source code
